@@ -1,4 +1,4 @@
-## Hi, my name is Daniel. welcome to my repository 👋😀
+## <center>Hi, my name is Daniel. welcome to my repository 👋😀</center>
 
 <div align="center">
   <a href="https://github.com/danielfloriano7">
