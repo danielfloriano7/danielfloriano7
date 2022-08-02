@@ -1,4 +1,4 @@
- <h2 align="center">Hi, my name is Daniel. welcome to my repository 👋😀</h2>
+ <h2 align="center">Welcome to my repository 👋😀</h2>
 
 
 <div align="center">
